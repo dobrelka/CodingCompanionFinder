@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
+ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
 MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/0645aed007a8a3e3719e6c9575f93f75/jetified-navigation-ui-ktx-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.navigation:navigation-ui:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/734a347d731b55c898941b9f3ca68916/jetified-navigation-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/f4cc650857ca7115336c32e42c84fc6f/material-1.0.0/AndroidManifest.xml:17:1-24:12
@@ -51,29 +51,29 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dobrelka/.gradle/caches
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/3bc0115c5a0984d0b97cafc4a417d9b9/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/19253f46621bccf83cc727aa43a78842/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/028d01c4e5e59950a285906368fb793f/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:3:3-52
-		INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml
-		INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:3:3-52
+		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
-		INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
-		INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:5:3-65
+ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:5:3-65
 	android:name
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:5:20-62
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:5:20-62
 application
-ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:7:3-28:17
+ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:7:3-28:17
 MERGED from [com.google.android.material:material:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/f4cc650857ca7115336c32e42c84fc6f/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/f4cc650857ca7115336c32e42c84fc6f/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/3c9ff8ebe5a6afb91a360437241e1247/constraintlayout-2.0.0-beta2/AndroidManifest.xml:9:5-20
@@ -91,45 +91,45 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dobre
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/9c933b15d9f93e76e4d82ea7601e25c9/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:12:5-31
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:12:5-31
 	android:label
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:10:5-37
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:10:5-37
 	android:roundIcon
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:11:5-58
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:11:5-58
 	android:icon
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:9:5-47
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:9:5-47
 	android:allowBackup
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:8:5-31
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:8:5-31
 	android:theme
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:13:5-36
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:13:5-36
 	android:usesCleartextTraffic
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:14:5-40
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:14:5-40
 activity#com.raywenderlich.codingcompanionfinder.SplashActivity
-ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:15:5-21:16
+ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:15:5-21:16
 	android:name
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:15:15-45
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:15:15-45
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:16:7-20:23
+ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:16:7-20:23
 action#android.intent.action.MAIN
-ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:17:9-61
+ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:17:9-61
 	android:name
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:17:17-58
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:17:17-58
 category#android.intent.category.LAUNCHER
-ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:19:9-69
+ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:19:9-69
 	android:name
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:19:19-66
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:19:19-66
 activity#com.raywenderlich.codingcompanionfinder.MainActivity
-ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:22:5-27:16
+ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:22:5-27:16
 	android:screenOrientation
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:25:7-43
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:25:7-43
 	android:configChanges
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:24:7-85
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:24:7-85
 	android:name
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml:23:7-35
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:23:7-35
 uses-sdk
-INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml
-INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
 MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/0645aed007a8a3e3719e6c9575f93f75/jetified-navigation-ui-ktx-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/0645aed007a8a3e3719e6c9575f93f75/jetified-navigation-ui-ktx-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.navigation:navigation-ui:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/734a347d731b55c898941b9f3ca68916/jetified-navigation-ui-1.0.0/AndroidManifest.xml:20:5-44
@@ -224,13 +224,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dobrelka/.g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/19253f46621bccf83cc727aa43a78842/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/028d01c4e5e59950a285906368fb793f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/028d01c4e5e59950a285906368fb793f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml
-INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml
-		INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml
-		ADDED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml
-		INJECTED from /home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml

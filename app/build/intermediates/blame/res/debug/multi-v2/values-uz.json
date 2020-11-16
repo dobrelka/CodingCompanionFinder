@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/dobrelka/BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/13-high-level-testing-with-espresso/final/CodingCompanionFinder/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml",
+            "outputFile": "/home/dobrelka/CodingCompanionFinder/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml",
             "map": [
                 {
                     "source": "/home/dobrelka/.gradle/caches/transforms-2/files-2.1/5ea0b29cb75204746db73749dcd594c6/appcompat-1.1.0/res/values-uz/values-uz.xml",
