@@ -8,7 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ba6aaeb8-f12b-4b16-b2ef-2acd65e09472" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,19 +284,27 @@
       <option name="project" value="LOCAL" />
       <updated>1605606021315</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Changing searchForCompanionFragment in nav_graph.xml">
+      <created>1605606829019</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605606829019</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changing test searching_for_a_companion_and_tapping_on_it_takes_the_user_to_the_companion_details in FindCompanionInstrumentedTest.kt" />
     <MESSAGE value="Adding fragment in nav_graph.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding fragment in nav_graph.xml" />
+    <MESSAGE value="Changing searchForCompanionFragment in nav_graph.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changing searchForCompanionFragment in nav_graph.xml" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2273" y="122" width="1001" height="876" key="CommitChangelistDialog2" timestamp="1605606021149">
+    <state x="2273" y="122" width="1001" height="876" key="CommitChangelistDialog2" timestamp="1605606828939">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2273" y="122" width="1001" height="876" key="CommitChangelistDialog2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605606021149" />
+    <state x="2273" y="122" width="1001" height="876" key="CommitChangelistDialog2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605606828939" />
     <state x="2165" y="269" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605558206332">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
@@ -317,9 +325,9 @@
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state width="842" height="231" key="GridCell.Tab.0.right/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605561373508" />
-    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2" timestamp="1605606023119">
+    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2" timestamp="1605606830796">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605606023119" />
+    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605606830796" />
   </component>
 </project>

@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: android.arch.navigation:navigation-fragment:1.0.0@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0384735e95a43e3e13019f35fad6d581/jetified-navigation-fragment-1.0.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0384735e95a43e3e13019f35fad6d581/jetified-navigation-fragment-1.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0384735e95a43e3e13019f35fad6d581/jetified-navigation-fragment-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/39c180f6580b9fbfe86d18dcb89470f9/jetified-navigation-fragment-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/39c180f6580b9fbfe86d18dcb89470f9/jetified-navigation-fragment-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/39c180f6580b9fbfe86d18dcb89470f9/jetified-navigation-fragment-1.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

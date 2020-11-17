@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: android.arch.navigation:navigation-ui-ktx:1.0.0@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0645aed007a8a3e3719e6c9575f93f75/jetified-navigation-ui-ktx-1.0.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0645aed007a8a3e3719e6c9575f93f75/jetified-navigation-ui-ktx-1.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0645aed007a8a3e3719e6c9575f93f75/jetified-navigation-ui-ktx-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c1ae7443380b8e5b7825148d0b28dd8e/jetified-navigation-ui-ktx-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c1ae7443380b8e5b7825148d0b28dd8e/jetified-navigation-ui-ktx-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/c1ae7443380b8e5b7825148d0b28dd8e/jetified-navigation-ui-ktx-1.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
