@@ -45,4 +45,13 @@
       android:name="com.raywenderlich.codingcompanionfinder.searchforcompanion.SearchForCompanionFragment"
       android:label="fragment_search_for_pet"
       tools:layout="@layout/fragment_search_for_companion"/>
+  <fragment
+      android:id="@+id/viewCompanion"
+      android:name="com.raywenderlich.codingcompanionfinder.searchforcompanion.ViewCompanionFragment"
+      android:label="fragment_view_companion"
+      tools:layout="@layout/fragment_view_companion">
+    <argument
+        android:name="animal"
+        app:argType="com.raywenderlich.codingcompanionfinder.models.Animal" />
+  </fragment>
 </navigation>
