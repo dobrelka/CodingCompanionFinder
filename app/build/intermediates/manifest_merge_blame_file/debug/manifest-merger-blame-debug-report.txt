@@ -19,7 +19,7 @@
 14        android:allowBackup="true"
 14-->/home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:8:5-31
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-15-->[androidx.core:core:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/9c933b15d9f93e76e4d82ea7601e25c9/core-1.1.0/AndroidManifest.xml:24:18-86
+15-->[androidx.core:core:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/82c4d5c59ecade2b20e9e6f678983945/core-1.1.0/AndroidManifest.xml:24:18-86
 16        android:debuggable="true"
 17        android:icon="@mipmap/ic_coding_companion"
 17-->/home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:9:5-47

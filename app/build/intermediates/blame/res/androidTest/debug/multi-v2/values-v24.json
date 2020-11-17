@@ -4,7 +4,7 @@
             "outputFile": "/home/dobrelka/CodingCompanionFinder/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/home/dobrelka/.gradle/caches/transforms-2/files-2.1/5ea0b29cb75204746db73749dcd594c6/appcompat-1.1.0/res/values-v24/values-v24.xml",
+                    "source": "/home/dobrelka/.gradle/caches/transforms-2/files-2.1/baa7e09150ff61a982394b7c4509cb26/appcompat-1.1.0/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

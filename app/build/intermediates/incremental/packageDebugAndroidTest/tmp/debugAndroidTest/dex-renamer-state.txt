@@ -1,4 +1,4 @@
-#Mon Nov 16 22:42:24 EET 2020
+#Tue Nov 17 20:17:41 EET 2020
 base.0=/home/dobrelka/CodingCompanionFinder/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/out/classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
