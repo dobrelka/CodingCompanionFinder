@@ -63,7 +63,7 @@ class ViewCompanionFragment : Fragment() {
       savedInstanceState: Bundle?
   ): View? {
     // Inflate the layout for this fragment
-    animal = arguments?.getSerializable(ANIMAL) as Animal
+    animal = args.animal
     viewCompanionFragment = this
     return inflater.inflate(R.layout.fragment_view_companion, container, false)
   }
