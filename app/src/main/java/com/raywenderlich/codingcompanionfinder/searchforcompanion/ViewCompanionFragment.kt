@@ -38,6 +38,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.fragment.app.Fragment
+import androidx.navigation.fragment.navArgs
 import com.raywenderlich.codingcompanionfinder.GlideApp
 
 import com.raywenderlich.codingcompanionfinder.R
@@ -56,6 +57,7 @@ class ViewCompanionFragment : Fragment() {
   private lateinit var petCaroselView: CarouselView
   private lateinit var viewCompanionFragment: ViewCompanionFragment
 
+  val args: ViewCompanionFragmentArgs by navArgs()
   override fun onCreateView(
       inflater: LayoutInflater, container: ViewGroup?,
       savedInstanceState: Bundle?
