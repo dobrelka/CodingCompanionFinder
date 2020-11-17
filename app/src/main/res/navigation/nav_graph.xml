@@ -44,7 +44,11 @@
       android:id="@+id/searchForCompanionFragment"
       android:name="com.raywenderlich.codingcompanionfinder.searchforcompanion.SearchForCompanionFragment"
       android:label="fragment_search_for_pet"
-      tools:layout="@layout/fragment_search_for_companion"/>
+      tools:layout="@layout/fragment_search_for_companion">
+      <action
+        android:id="@+id/action_searchForCompanionFragment_to_viewCompanion"
+        app:destination="@id/viewCompanion" />
+  </fragment>
   <fragment
       android:id="@+id/viewCompanion"
       android:name="com.raywenderlich.codingcompanionfinder.searchforcompanion.ViewCompanionFragment"
