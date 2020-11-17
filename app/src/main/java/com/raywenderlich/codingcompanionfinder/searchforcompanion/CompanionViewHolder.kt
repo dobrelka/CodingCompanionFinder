@@ -35,6 +35,7 @@ import android.view.View
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.fragment.app.Fragment
+import androidx.navigation.findNavController
 import androidx.recyclerview.widget.RecyclerView
 import com.raywenderlich.codingcompanionfinder.GlideApp
 import com.raywenderlich.codingcompanionfinder.R
@@ -64,12 +65,8 @@ class CompanionViewHolder(val view: View, val fragment: Fragment) : RecyclerView
 
   private fun setupClickEvent(animal: Animal){
     view.setOnClickListener {
-      val viewCompanionFragment = ViewCompanionFragment()
-      val bundle = Bundle()
-      bundle.putSerializable(ViewCompanionFragment.ANIMAL, animal)
-      viewCompanionFragment.arguments = bundle
-      val transaction = fragment.childFragmentManager.beginTransaction()
-      transaction.replace(R.id.viewCompanion, viewCompanionFragment).addToBackStack("companionView").commit()
+      val action = SearchForCompanionFragmentDirections.actionSearchForCompanionFragmentToViewCompanion(animal)
+        view.findNavController().navigate(action)
     }
   }
 }
