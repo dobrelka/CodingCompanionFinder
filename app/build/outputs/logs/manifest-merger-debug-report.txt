@@ -4,6 +4,8 @@ ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
 INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.databinding:databinding-adapters:3.5.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/fa3243a6d68dc76c25ea61d55a9ae63b/databinding-adapters-3.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.5.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/29c0e5b3c8392fe7faac9148a4e113bf/databinding-runtime-3.5.0/AndroidManifest.xml:17:1-24:12
 MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/c1ae7443380b8e5b7825148d0b28dd8e/jetified-navigation-ui-ktx-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.navigation:navigation-ui:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/61386af5f4388c40bacc486c485e75d5/jetified-navigation-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/809f3afd62ad901286dacc9a92c3cf42/material-1.0.0/AndroidManifest.xml:17:1-24:12
@@ -13,15 +15,14 @@ MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/dobrelka/.gradle/cac
 MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/ee6b7cfa91e759ad1e337b47ed7895a5/jetified-navigation-fragment-ktx-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/567f8bf33ab107930f5f6648d8590799/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
 MERGED from [com.synnapps:carouselview:0.1.5] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/09d52d4beab2fa5df1816162dccfe045/jetified-carouselview-0.1.5/AndroidManifest.xml:2:1-16:12
-MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/57c43a097e3325c1abfaaa959fd2a6c4/jetified-navigation-runtime-ktx-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/d04da0517be548b2692b0061f758435b/jetified-navigation-common-ktx-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/9f9b389973cdb7a2aaf2d33fd3258cb1/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/56f4f48127b42ea8f81ac6a2e8b493f6/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/09104609790e52724efcb90a3f341e3f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/57c43a097e3325c1abfaaa959fd2a6c4/jetified-navigation-runtime-ktx-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/39c180f6580b9fbfe86d18dcb89470f9/jetified-navigation-fragment-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/c12b293a847b410c8b82271dde3852f0/jetified-navigation-runtime-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/a071b151e2e73d5ad629372066341eba/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.transition:transition:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/7f272ab4fa2ab471c2bc5a58056e6591/transition-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/8c28aa4a28329e1baf803fd555ac96cc/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/bc4a4eded10d5a0f913a707442ced10b/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/47e407443e60f6ca2adf6dd8bd07ed6f/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/ce404dbe2ecdd20e921d56fd4c330c48/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -36,21 +37,25 @@ MERGED from [androidx.loader:loader:1.0.0] /home/dobrelka/.gradle/caches/transfo
 MERGED from [androidx.activity:activity:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/ffbf9cabf281f5c5ecf385acb038bb7f/activity-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/f3c18b4c579c875be90004768b637a18/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/047574ef5794b09e0b22b8a53ea35ab8/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/d04da0517be548b2692b0061f758435b/jetified-navigation-common-ktx-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.navigation:navigation-common:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/7fe46dd8e1cbc2c892260336cb66289a/jetified-navigation-common-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/82c4d5c59ecade2b20e9e6f678983945/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/b8e1cf2e18918054902993c3c6ac67fd/lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/5ab46baa521038c502e56c10a990abfb/lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/7731d9590b43c35a94a280797727da0f/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/4f31a08b86e266fb2c687c51e20447b6/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/8c28aa4a28329e1baf803fd555ac96cc/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/e5e77f16617dfd78a9d8e549ff14e53f/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/32e2119dbd011bd7b416ed6fa90f9741/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/d20ffd7289b6d13ae01444dce936a3e8/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/12a3fce62cdbd75bf7cb3342dcee69d1/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/72b3f5524f543ba4b256bea23c71a623/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/83ad036d0fdcfc9ac81ebce737d0f48b/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/08349f3b1d031cf87012b906968f069b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/d8b41a2220699d904b509f16cd2d354d/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/e63992e0b7a011b8332c49cd2f0c457c/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/a80f7f27b84d408d1404ce45be7b0608/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/fbd3bfd05ec81aa77f198d475232bb30/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/4f31a08b86e266fb2c687c51e20447b6/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/7731d9590b43c35a94a280797727da0f/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/08349f3b1d031cf87012b906968f069b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/83ad036d0fdcfc9ac81ebce737d0f48b/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/dc438158548f73f33f2662d2b57cd251/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/0e2cbe6707a7e3b63a6f65b3727fa876/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/5764d3a5fdacdd007382a1c5dfc83843/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
 INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
@@ -82,12 +87,16 @@ MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/dobrelka/.gradle/cache
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/567f8bf33ab107930f5f6648d8590799/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
 MERGED from [com.synnapps:carouselview:0.1.5] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/09d52d4beab2fa5df1816162dccfe045/jetified-carouselview-0.1.5/AndroidManifest.xml:11:5-14:19
 MERGED from [com.synnapps:carouselview:0.1.5] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/09d52d4beab2fa5df1816162dccfe045/jetified-carouselview-0.1.5/AndroidManifest.xml:11:5-14:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/9f9b389973cdb7a2aaf2d33fd3258cb1/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/9f9b389973cdb7a2aaf2d33fd3258cb1/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.core:core:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/82c4d5c59ecade2b20e9e6f678983945/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/82c4d5c59ecade2b20e9e6f678983945/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/32e2119dbd011bd7b416ed6fa90f9741/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/32e2119dbd011bd7b416ed6fa90f9741/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/b8e1cf2e18918054902993c3c6ac67fd/lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/b8e1cf2e18918054902993c3c6ac67fd/lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/4f31a08b86e266fb2c687c51e20447b6/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/4f31a08b86e266fb2c687c51e20447b6/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/32e2119dbd011bd7b416ed6fa90f9741/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/32e2119dbd011bd7b416ed6fa90f9741/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/82c4d5c59ecade2b20e9e6f678983945/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
@@ -130,6 +139,10 @@ uses-sdk
 INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
 INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.5.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/fa3243a6d68dc76c25ea61d55a9ae63b/databinding-adapters-3.5.0/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.5.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/fa3243a6d68dc76c25ea61d55a9ae63b/databinding-adapters-3.5.0/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/29c0e5b3c8392fe7faac9148a4e113bf/databinding-runtime-3.5.0/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/29c0e5b3c8392fe7faac9148a4e113bf/databinding-runtime-3.5.0/AndroidManifest.xml:22:5-44
 MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/c1ae7443380b8e5b7825148d0b28dd8e/jetified-navigation-ui-ktx-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/c1ae7443380b8e5b7825148d0b28dd8e/jetified-navigation-ui-ktx-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.navigation:navigation-ui:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/61386af5f4388c40bacc486c485e75d5/jetified-navigation-ui-1.0.0/AndroidManifest.xml:20:5-44
@@ -148,14 +161,14 @@ MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/dobrelka/.gradle/cache
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/567f8bf33ab107930f5f6648d8590799/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
 MERGED from [com.synnapps:carouselview:0.1.5] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/09d52d4beab2fa5df1816162dccfe045/jetified-carouselview-0.1.5/AndroidManifest.xml:7:5-9:41
 MERGED from [com.synnapps:carouselview:0.1.5] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/09d52d4beab2fa5df1816162dccfe045/jetified-carouselview-0.1.5/AndroidManifest.xml:7:5-9:41
-MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/57c43a097e3325c1abfaaa959fd2a6c4/jetified-navigation-runtime-ktx-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/57c43a097e3325c1abfaaa959fd2a6c4/jetified-navigation-runtime-ktx-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/d04da0517be548b2692b0061f758435b/jetified-navigation-common-ktx-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/d04da0517be548b2692b0061f758435b/jetified-navigation-common-ktx-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/9f9b389973cdb7a2aaf2d33fd3258cb1/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/9f9b389973cdb7a2aaf2d33fd3258cb1/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/56f4f48127b42ea8f81ac6a2e8b493f6/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/56f4f48127b42ea8f81ac6a2e8b493f6/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/09104609790e52724efcb90a3f341e3f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/09104609790e52724efcb90a3f341e3f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/57c43a097e3325c1abfaaa959fd2a6c4/jetified-navigation-runtime-ktx-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/57c43a097e3325c1abfaaa959fd2a6c4/jetified-navigation-runtime-ktx-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/39c180f6580b9fbfe86d18dcb89470f9/jetified-navigation-fragment-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.navigation:navigation-fragment:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/39c180f6580b9fbfe86d18dcb89470f9/jetified-navigation-fragment-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.navigation:navigation-runtime:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/c12b293a847b410c8b82271dde3852f0/jetified-navigation-runtime-1.0.0/AndroidManifest.xml:20:5-44
@@ -164,8 +177,6 @@ MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dobrelka/.gr
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/a071b151e2e73d5ad629372066341eba/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/7f272ab4fa2ab471c2bc5a58056e6591/transition-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/7f272ab4fa2ab471c2bc5a58056e6591/transition-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/8c28aa4a28329e1baf803fd555ac96cc/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/8c28aa4a28329e1baf803fd555ac96cc/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/bc4a4eded10d5a0f913a707442ced10b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/bc4a4eded10d5a0f913a707442ced10b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/47e407443e60f6ca2adf6dd8bd07ed6f/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -194,14 +205,36 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dobrel
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/f3c18b4c579c875be90004768b637a18/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/047574ef5794b09e0b22b8a53ea35ab8/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/047574ef5794b09e0b22b8a53ea35ab8/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/d04da0517be548b2692b0061f758435b/jetified-navigation-common-ktx-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/d04da0517be548b2692b0061f758435b/jetified-navigation-common-ktx-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.navigation:navigation-common:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/7fe46dd8e1cbc2c892260336cb66289a/jetified-navigation-common-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.navigation:navigation-common:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/7fe46dd8e1cbc2c892260336cb66289a/jetified-navigation-common-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/82c4d5c59ecade2b20e9e6f678983945/core-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/82c4d5c59ecade2b20e9e6f678983945/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/b8e1cf2e18918054902993c3c6ac67fd/lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/b8e1cf2e18918054902993c3c6ac67fd/lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/5ab46baa521038c502e56c10a990abfb/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/5ab46baa521038c502e56c10a990abfb/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/7731d9590b43c35a94a280797727da0f/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/7731d9590b43c35a94a280797727da0f/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/4f31a08b86e266fb2c687c51e20447b6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/4f31a08b86e266fb2c687c51e20447b6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/8c28aa4a28329e1baf803fd555ac96cc/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/8c28aa4a28329e1baf803fd555ac96cc/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/e5e77f16617dfd78a9d8e549ff14e53f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/e5e77f16617dfd78a9d8e549ff14e53f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/32e2119dbd011bd7b416ed6fa90f9741/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/32e2119dbd011bd7b416ed6fa90f9741/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/d20ffd7289b6d13ae01444dce936a3e8/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/d20ffd7289b6d13ae01444dce936a3e8/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/12a3fce62cdbd75bf7cb3342dcee69d1/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/12a3fce62cdbd75bf7cb3342dcee69d1/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/72b3f5524f543ba4b256bea23c71a623/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/72b3f5524f543ba4b256bea23c71a623/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/83ad036d0fdcfc9ac81ebce737d0f48b/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/83ad036d0fdcfc9ac81ebce737d0f48b/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/08349f3b1d031cf87012b906968f069b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/08349f3b1d031cf87012b906968f069b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/d8b41a2220699d904b509f16cd2d354d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/d8b41a2220699d904b509f16cd2d354d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/e63992e0b7a011b8332c49cd2f0c457c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
@@ -210,20 +243,6 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/d
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/a80f7f27b84d408d1404ce45be7b0608/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/fbd3bfd05ec81aa77f198d475232bb30/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/fbd3bfd05ec81aa77f198d475232bb30/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/4f31a08b86e266fb2c687c51e20447b6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/4f31a08b86e266fb2c687c51e20447b6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/7731d9590b43c35a94a280797727da0f/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/7731d9590b43c35a94a280797727da0f/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/08349f3b1d031cf87012b906968f069b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/08349f3b1d031cf87012b906968f069b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/83ad036d0fdcfc9ac81ebce737d0f48b/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/83ad036d0fdcfc9ac81ebce737d0f48b/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/dc438158548f73f33f2662d2b57cd251/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/dc438158548f73f33f2662d2b57cd251/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/0e2cbe6707a7e3b63a6f65b3727fa876/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/0e2cbe6707a7e3b63a6f65b3727fa876/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/5764d3a5fdacdd007382a1c5dfc83843/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/5764d3a5fdacdd007382a1c5dfc83843/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
 INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -234,3 +253,13 @@ INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.
 		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
 		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
 		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/b8e1cf2e18918054902993c3c6ac67fd/lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/b8e1cf2e18918054902993c3c6ac67fd/lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/b8e1cf2e18918054902993c3c6ac67fd/lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/b8e1cf2e18918054902993c3c6ac67fd/lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/b8e1cf2e18918054902993c3c6ac67fd/lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79

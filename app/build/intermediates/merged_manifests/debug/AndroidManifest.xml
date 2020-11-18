@@ -33,6 +33,12 @@
             android:configChanges="screenSize|smallestScreenSize|orientation|screenLayout"
             android:screenOrientation="portrait" >
         </activity>
+
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.raywenderlich.codingcompanionfinder.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

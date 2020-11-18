@@ -57,6 +57,17 @@
 34            android:screenOrientation="portrait" >
 34-->/home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:25:7-43
 35        </activity>
-36    </application>
-37
-38</manifest>
+36
+37        <provider
+37-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/b8e1cf2e18918054902993c3c6ac67fd/lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+38            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+38-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/b8e1cf2e18918054902993c3c6ac67fd/lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+39            android:authorities="com.raywenderlich.codingcompanionfinder.lifecycle-process"
+39-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/b8e1cf2e18918054902993c3c6ac67fd/lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+40            android:exported="false"
+40-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/b8e1cf2e18918054902993c3c6ac67fd/lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+41            android:multiprocess="true" />
+41-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/b8e1cf2e18918054902993c3c6ac67fd/lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+42    </application>
+43
+44</manifest>

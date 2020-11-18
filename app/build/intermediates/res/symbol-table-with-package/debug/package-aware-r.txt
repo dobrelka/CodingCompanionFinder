@@ -1372,6 +1372,7 @@ id coordinator
 id cos
 id custom
 id customPanel
+id dataBinding
 id decelerate
 id decelerateAndComplete
 id decor_content_parent
@@ -1467,6 +1468,8 @@ id notification_main_column
 id notification_main_column_container
 id off
 id on
+id onAttachStateChangeListener
+id onDateChanged
 id outline
 id packed
 id parallax
@@ -1570,6 +1573,7 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textWatcher
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
