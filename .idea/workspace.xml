@@ -353,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605692188079</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Creating ViewCompanionViewModel.kt">
+      <created>1605694372058</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605694372058</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -381,13 +388,14 @@
     <MESSAGE value="Removed the FrameLayout with an&#10;android:id of @+id/viewCompanion into fragment_search_for_companion.xml" />
     <MESSAGE value="Adding lifecycle_version = &quot;2.1.0&quot; in build.gradle(app)" />
     <MESSAGE value="Adding dataBinding in build.gradle(app)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding dataBinding in build.gradle(app)" />
+    <MESSAGE value="Creating ViewCompanionViewModel.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating ViewCompanionViewModel.kt" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2014" y="493" width="745" height="491" key="CommitChangelistDialog2" timestamp="1605692187966">
+    <state x="2014" y="493" width="745" height="491" key="CommitChangelistDialog2" timestamp="1605694371756">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2014" y="493" width="745" height="491" key="CommitChangelistDialog2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605692187966" />
+    <state x="2014" y="493" width="745" height="491" key="CommitChangelistDialog2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605694371756" />
     <state x="2026" y="100" width="688" height="823" maximized="true" key="DiffContextDialog" timestamp="1605636662974">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
@@ -412,9 +420,9 @@
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state width="842" height="154" key="GridCell.Tab.0.right/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605643323283" />
-    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2" timestamp="1605692189417">
+    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2" timestamp="1605694374029">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605692189417" />
+    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605694374029" />
   </component>
 </project>
