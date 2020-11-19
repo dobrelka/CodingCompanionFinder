@@ -8,7 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ba6aaeb8-f12b-4b16-b2ef-2acd65e09472" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/codingcompanionfinder/searchforcompanion/ViewCompanionViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/codingcompanionfinder/searchforcompanion/ViewCompanionViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/codingcompanionfinder/searchforcompanion/ViewCompanionFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/codingcompanionfinder/searchforcompanion/ViewCompanionFragment.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -375,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605710104484</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Adding fun populateFromAnimal in ViewCompanionViewModel.kt">
+      <created>1605711272593</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605711272593</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -406,13 +413,14 @@
     <MESSAGE value="Creating ViewCompanionViewModel.kt" />
     <MESSAGE value="&#10;Changing fragment_view_companion.xml" />
     <MESSAGE value="&#10;Replacing android:text in fragment_view_companion.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;Replacing android:text in fragment_view_companion.xml" />
+    <MESSAGE value="Adding fun populateFromAnimal in ViewCompanionViewModel.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding fun populateFromAnimal in ViewCompanionViewModel.kt" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2011" y="330" width="745" height="491" key="CommitChangelistDialog2" timestamp="1605710102284">
+    <state x="2011" y="330" width="745" height="491" key="CommitChangelistDialog2" timestamp="1605711272411">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2011" y="330" width="745" height="491" key="CommitChangelistDialog2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605710102284" />
+    <state x="2011" y="330" width="745" height="491" key="CommitChangelistDialog2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605711272411" />
     <state x="2026" y="100" width="688" height="823" maximized="true" key="DiffContextDialog" timestamp="1605636662974">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
@@ -437,9 +445,9 @@
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state width="842" height="154" key="GridCell.Tab.0.right/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605643323283" />
-    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2" timestamp="1605710106168">
+    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2" timestamp="1605711274420">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605710106168" />
+    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605711274420" />
   </component>
 </project>

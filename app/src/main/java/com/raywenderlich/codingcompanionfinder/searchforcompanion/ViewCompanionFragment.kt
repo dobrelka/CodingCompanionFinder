@@ -38,10 +38,12 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.fragment.app.Fragment
+import androidx.lifecycle.ViewModelProviders
 import androidx.navigation.fragment.navArgs
 import com.raywenderlich.codingcompanionfinder.GlideApp
 
 import com.raywenderlich.codingcompanionfinder.R
+import com.raywenderlich.codingcompanionfinder.databinding.FragmentViewCompanionBinding
 import com.raywenderlich.codingcompanionfinder.models.Animal
 import com.synnapps.carouselview.CarouselView
 import com.synnapps.carouselview.ViewListener
@@ -65,7 +67,12 @@ class ViewCompanionFragment : Fragment() {
     // Inflate the layout for this fragment
     animal = args.animal
     viewCompanionFragment = this
-    return inflater.inflate(R.layout.fragment_view_companion, container, false)
+
+    val fragmentViewCompanionBinding = FragmentViewCompanionBinding.inflate(inflater, container, false)
+    val viewCompanionViewModel = ViewModelProviders.of(this).get(ViewCompanionViewModel::class.java)
+    viewCompanionViewModel.populateFromAnimal(animal)
+    fragmentViewCompanionBinding.viewCompanionViewModel = viewCompanionViewModel
+    return fragmentViewCompanionBinding.root
   }
 
   override fun onResume() {
