@@ -80,24 +80,6 @@ class ViewCompanionFragment : Fragment() {
     super.onResume()
   }
 
-  private fun populatePet() {
-    populateTextField(R.id.petName, animal.name)
-    populateTextField(
-        R.id.city,
-        animal.contact.address.city + ", " + animal.contact.address.state
-    )
-    populateTextField(R.id.age, animal.age)
-    populateTextField(R.id.sex, animal.gender)
-    populateTextField(R.id.size, animal.size)
-    populateTextField(R.id.meetTitlePlaceholder, "Meet " + animal.name)
-    populateTextField(R.id.description, animal.description)
-    populatePhotos()
-
-    populateTextField(R.id.breed, animal.breeds.primary)
-    populateTextField(R.id.email, animal.contact.email)
-    populateTextField(R.id.telephone, animal.contact.phone)
-  }
-
   private fun populatePhotos() {
     petPhotos = ArrayList()
     animal.photos.forEach { photo ->
@@ -118,12 +100,6 @@ class ViewCompanionFragment : Fragment() {
         }
       })
       petCaroselView.pageCount = petPhotos.size
-    }
-  }
-
-  private fun populateTextField(id: Int, stringValue: String) {
-    view?.let {
-      (it.findViewById(id) as TextView).text = stringValue
     }
   }
 
