@@ -141,6 +141,20 @@ class FindCompanionInstrumentedTest {
     onView(withText("adoptions@gahomelesspets.com")).check(matches(isDisplayed()))
   }
 
+  @Test
+  fun searching_for_a_companion_in_30318_returns_two_results() {
+    onView(withId(R.id.searchForCompanionFragment)).perform(click())
+    onView(withId(R.id.searchFieldText)).perform(typeText("30318"))
+    onView(withId(R.id.searchButton)).perform(click())
+    onView(withId(R.id.searchButton)).check(matches(isDisplayed()))
+    onView(withText("Joy")).check(matches(isDisplayed()))
+    onView(withText("Male")).check(matches(isDisplayed()))
+    onView(withText("Shih Tzu")).check(matches(isDisplayed()))
+    onView(withText("KEVIN")).check(matches(isDisplayed()))
+    onView(withText("Female")).check(matches(isDisplayed()))
+    onView(withText("Domestic Short Hair")).check(matches(isDisplayed()))
+  }
+
   private fun find_and_select_kevin_in_30318(){
     onView(withId(R.id.searchForCompanionFragment)).perform(click())
     onView(withId(R.id.searchFieldText)).perform(typeText("30318"))
