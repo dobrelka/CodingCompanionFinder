@@ -155,6 +155,15 @@ class FindCompanionInstrumentedTest {
     onView(withText("Domestic Short Hair")).check(matches(isDisplayed()))
   }
 
+  @Test
+  fun searching_for_a_companion_in_90210_returns_no_results() {
+    onView(withId(R.id.searchForCompanionFragment)).perform(click())
+    onView(withId(R.id.searchFieldText)).perform(typeText("90210"))
+    onView(withId(R.id.searchButton)).perform(click())
+    onView(withId(R.id.searchButton)).check(matches(isDisplayed()))
+    onView(withId(R.id.noResults)).check(matches(withEffectiveVisibility(Visibility.VISIBLE)))
+  }
+
   private fun find_and_select_kevin_in_30318(){
     onView(withId(R.id.searchForCompanionFragment)).perform(click())
     onView(withId(R.id.searchFieldText)).perform(typeText("30318"))
