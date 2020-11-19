@@ -76,7 +76,7 @@ class ViewCompanionFragment : Fragment() {
   }
 
   override fun onResume() {
-    populatePet()
+    populatePhotos()
     super.onResume()
   }
 
