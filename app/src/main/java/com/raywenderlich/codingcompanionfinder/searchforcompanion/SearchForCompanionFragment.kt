@@ -115,8 +115,7 @@ class SearchForCompanionFragment : Fragment() {
                   }
                 }
               } else {
-                // comment out this line
-                //noResultsTextView?.visibility = VISIBLE
+                noResultsTextView?.visibility = VISIBLE
               }
             }
           }
