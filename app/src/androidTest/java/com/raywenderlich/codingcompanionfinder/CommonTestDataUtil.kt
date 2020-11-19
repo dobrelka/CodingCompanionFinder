@@ -14,6 +14,10 @@ object CommonTestDataUtil {
         MockResponse().setResponseCode(200).setBody(readFile("search_30318.json")
         )
       }
+      // test data fo no results
+      "/animals?limit=20&location=90210" -> {
+        MockResponse().setResponseCode(200).setBody("{\"animals\": []}")
+      }
       else -> {
         MockResponse().setResponseCode(404).setBody("{}")
       }
