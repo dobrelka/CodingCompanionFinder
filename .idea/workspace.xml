@@ -12,16 +12,17 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/app_classes/debug/bundleDebugClasses/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/app_classes/debug/bundleDebugClasses/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/out/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugAndroidTest/tmp/debugAndroidTest/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebugAndroidTest/tmp/debugAndroidTest/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/1/com/raywenderlich/codingcompanionfinder/FindCompanionInstrumentedTest.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/androidTest/debug/1/com/raywenderlich/codingcompanionfinder/FindCompanionInstrumentedTest.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/raywenderlich/codingcompanionfinder/searchforcompanion/SearchForCompanionFragment$searchForCompanions$1$invokeSuspend$$inlined$let$lambda$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/raywenderlich/codingcompanionfinder/searchforcompanion/SearchForCompanionFragment$searchForCompanions$1$invokeSuspend$$inlined$let$lambda$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/raywenderlich/codingcompanionfinder/searchforcompanion/SearchForCompanionFragment.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/raywenderlich/codingcompanionfinder/searchforcompanion/SearchForCompanionFragment.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugAndroidTestKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugAndroidTestKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugAndroidTestKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugAndroidTestKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugAndroidTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugAndroidTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
@@ -51,7 +52,11 @@
       <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
@@ -104,8 +109,12 @@
       <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/kotlin/kaptGenerateStubsDebugKotlin/last-build.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/androidTest/debug/app-debug-androidTest.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/androidTest/debug/app-debug-androidTest.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kapt3/incApCache/debugAndroidTest/classpath-structure.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kapt3/incApCache/debugAndroidTest/classpath-structure.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/raywenderlich/codingcompanionfinder/searchforcompanion/SearchForCompanionFragment$searchForCompanions$1$invokeSuspend$$inlined$let$lambda$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/raywenderlich/codingcompanionfinder/searchforcompanion/SearchForCompanionFragment$searchForCompanions$1$invokeSuspend$$inlined$let$lambda$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/raywenderlich/codingcompanionfinder/searchforcompanion/SearchForCompanionFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debug/com/raywenderlich/codingcompanionfinder/searchforcompanion/SearchForCompanionFragment.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debugAndroidTest/com/raywenderlich/codingcompanionfinder/FindCompanionInstrumentedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/kotlin-classes/debugAndroidTest/com/raywenderlich/codingcompanionfinder/FindCompanionInstrumentedTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/raywenderlich/codingcompanionfinder/FindCompanionInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/raywenderlich/codingcompanionfinder/FindCompanionInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/codingcompanionfinder/searchforcompanion/SearchForCompanionFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/codingcompanionfinder/searchforcompanion/SearchForCompanionFragment.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -640,7 +649,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605794125751</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="d">
+      <created>1605800754395</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1605800754395</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Adding test searching_for_a_companion_in_a_call_returns_an_error_displays_no_results in FindCompanionInstrumentedTest.kt">
+      <created>1605800964511</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1605800964511</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -657,7 +680,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Changing test searching_for_a_companion_and_tapping_on_it_takes_the_user_to_the_companion_details in FindCompanionInstrumentedTest.kt" />
     <MESSAGE value="Adding fragment in nav_graph.xml" />
     <MESSAGE value="Changing searchForCompanionFragment in nav_graph.xml" />
     <MESSAGE value="Adding dependencies in build.gradle(app)" />
@@ -681,13 +703,15 @@
     <MESSAGE value="Adding test searching_for_a_companion_in_90210_returns_no_results in FindCompanionInstrumentedTest.kt" />
     <MESSAGE value="Comment noResultsTextView?.visibility = VISIBLE in SearchForCompanionFragment.kt" />
     <MESSAGE value="Uncomment noResultsTextView?.visibility = VISIBLE in SearchForCompanionFragment.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uncomment noResultsTextView?.visibility = VISIBLE in SearchForCompanionFragment.kt" />
+    <MESSAGE value="d" />
+    <MESSAGE value="Adding test searching_for_a_companion_in_a_call_returns_an_error_displays_no_results in FindCompanionInstrumentedTest.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding test searching_for_a_companion_in_a_call_returns_an_error_displays_no_results in FindCompanionInstrumentedTest.kt" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1982" y="420" width="773" height="491" key="CommitChangelistDialog2" timestamp="1605800780235">
+    <state x="1982" y="420" width="773" height="491" key="CommitChangelistDialog2" timestamp="1605800964420">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="1982" y="420" width="773" height="491" key="CommitChangelistDialog2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605800780235" />
+    <state x="1982" y="420" width="773" height="491" key="CommitChangelistDialog2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605800964420" />
     <state x="2026" y="100" width="688" height="823" maximized="true" key="DiffContextDialog" timestamp="1605636662974">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
@@ -696,26 +720,26 @@
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2165" y="269" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605558206332" />
-    <state width="842" height="234" key="GridCell.Tab.0.bottom" timestamp="1605800782495">
+    <state width="1634" height="188" key="GridCell.Tab.0.bottom" timestamp="1605804286484">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state width="842" height="234" key="GridCell.Tab.0.bottom/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605800782495" />
-    <state width="842" height="234" key="GridCell.Tab.0.center" timestamp="1605800782495">
+    <state width="1634" height="188" key="GridCell.Tab.0.bottom/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605804286484" />
+    <state width="1634" height="188" key="GridCell.Tab.0.center" timestamp="1605804286484">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state width="842" height="234" key="GridCell.Tab.0.center/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605800782495" />
-    <state width="842" height="234" key="GridCell.Tab.0.left" timestamp="1605800782495">
+    <state width="1634" height="188" key="GridCell.Tab.0.center/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605804286484" />
+    <state width="1634" height="188" key="GridCell.Tab.0.left" timestamp="1605804286484">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state width="842" height="234" key="GridCell.Tab.0.left/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605800782495" />
-    <state width="842" height="234" key="GridCell.Tab.0.right" timestamp="1605800782495">
+    <state width="1634" height="188" key="GridCell.Tab.0.left/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605804286484" />
+    <state width="1634" height="188" key="GridCell.Tab.0.right" timestamp="1605804286484">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state width="842" height="234" key="GridCell.Tab.0.right/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605800782495" />
-    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2" timestamp="1605794127154">
+    <state width="1634" height="188" key="GridCell.Tab.0.right/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605804286484" />
+    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2" timestamp="1605800975936">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605794127154" />
+    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605800975936" />
     <state x="2036" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605791009834">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>

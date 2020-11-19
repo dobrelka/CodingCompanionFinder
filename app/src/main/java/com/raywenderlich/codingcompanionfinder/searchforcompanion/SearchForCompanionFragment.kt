@@ -88,7 +88,8 @@ class SearchForCompanionFragment : Fragment() {
 
 
   private fun searchForCompanions() {
-    val companionLocation = view?.findViewById<TextInputEditText>(R.id.searchFieldText)?.text.toString()
+    val companionLocation =
+      view?.findViewById<TextInputEditText>(R.id.searchFieldText)?.text.toString()
     val noResultsTextView = view?.findViewById<TextView>(R.id.noResults)
     val searchForCompanionFragment = this
 
@@ -97,35 +98,37 @@ class SearchForCompanionFragment : Fragment() {
       (activity as MainActivity).petFinderService?.let { petFinderService ->
         // increment the IdlingResources
         EventBus.getDefault().post(IdlingEntity(1))
-        val getAnimalsRequest = petFinderService.getAnimals(accessToken, location = companionLocation)
+        val getAnimalsRequest =
+          petFinderService.getAnimals(accessToken, location = companionLocation)
 
         val searchForPetResponse = getAnimalsRequest.await()
 
-        if (searchForPetResponse.isSuccessful) {
-          searchForPetResponse.body()?.let {
-            GlobalScope.launch(Dispatchers.Main) {
-              if (it.animals.size > 0) {
-                noResultsTextView?.visibility = INVISIBLE
-                viewManager = LinearLayoutManager(context)
-                companionAdapter = CompanionAdapter(it.animals, searchForCompanionFragment)
-                petRecyclerView = view?.let {
-                  it.findViewById<RecyclerView>(R.id.petRecyclerView).apply {
-                    layoutManager = viewManager
-                    adapter = companionAdapter
+        GlobalScope.launch(Dispatchers.Main) {
+          if (searchForPetResponse.isSuccessful) {
+            searchForPetResponse.body()?.let {
+              {
+                if (it.animals.size > 0) {
+                  noResultsTextView?.visibility = INVISIBLE
+                  viewManager = LinearLayoutManager(context)
+                  companionAdapter = CompanionAdapter(it.animals, searchForCompanionFragment)
+                  petRecyclerView = view?.let {
+                    it.findViewById<RecyclerView>(R.id.petRecyclerView).apply {
+                      layoutManager = viewManager
+                      adapter = companionAdapter
+                    }
                   }
+                } else {
+                  noResultsTextView?.visibility = VISIBLE
                 }
-              } else {
-                noResultsTextView?.visibility = VISIBLE
               }
             }
+          } else {
+            noResultsTextView?.visibility = VISIBLE
           }
-        } else {
-        noResultsTextView?.visibility = VISIBLE
+          // Decrement the idling resources.
+          EventBus.getDefault().post(IdlingEntity(-1))
         }
-        // Decrement the idling resources.
-        EventBus.getDefault().post(IdlingEntity(-1))
       }
     }
   }
-
 }
