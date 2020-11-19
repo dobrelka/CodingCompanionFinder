@@ -179,5 +179,6 @@ class FindCompanionInstrumentedTest {
     onView(withId(R.id.searchButton)).perform(click())
     onView(withId(R.id.searchButton)).check(matches(isDisplayed()))
     onView(withText("KEVIN")).perform(click())
+
   }
 }
