@@ -571,7 +571,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605860686485</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Adding a &lt;layout&gt; tag around&#10;the ConstaintLayoutand ,adding a &lt;data&gt; and &lt;variable&gt; tag for the ViewModel into fragment_search_for_companion.xml">
+      <created>1605861778827</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1605861778827</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -588,7 +595,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding dependencies in build.gradle(app)" />
     <MESSAGE value="Adding plugin in build.gradle(CodingCompanionFinder)" />
     <MESSAGE value="Changing fun setupClickEvent in CompanionViewHolder.kt" />
     <MESSAGE value="Adding val args ViewCompanionFragmentArgs in ViewCompanionFragment.kt" />
@@ -613,13 +619,14 @@
     <MESSAGE value="Adding test searching_for_a_companion_in_a_call_returns_an_error_displays_no_results in FindCompanionInstrumentedTest.kt" />
     <MESSAGE value="Changing fun searchForCompanions in SearchForCompanionFragment.kt" />
     <MESSAGE value="Creating SearchForCompanionViewModel.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating SearchForCompanionViewModel.kt" />
+    <MESSAGE value="Adding a &lt;layout&gt; tag around&#10;the ConstaintLayoutand ,adding a &lt;data&gt; and &lt;variable&gt; tag for the ViewModel into fragment_search_for_companion.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding a &lt;layout&gt; tag around&#10;the ConstaintLayoutand ,adding a &lt;data&gt; and &lt;variable&gt; tag for the ViewModel into fragment_search_for_companion.xml" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2032" y="376" width="739" height="491" key="CommitChangelistDialog2" timestamp="1605860686310">
+    <state x="2032" y="376" width="739" height="491" key="CommitChangelistDialog2" timestamp="1605861778739">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2032" y="376" width="739" height="491" key="CommitChangelistDialog2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605860686310" />
+    <state x="2032" y="376" width="739" height="491" key="CommitChangelistDialog2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605861778739" />
     <state x="2026" y="100" width="688" height="823" maximized="true" key="DiffContextDialog" timestamp="1605804483669">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
@@ -644,10 +651,10 @@
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state width="1634" height="188" key="GridCell.Tab.0.right/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605813041034" />
-    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2" timestamp="1605860688025">
+    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2" timestamp="1605861780449">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605860688025" />
+    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605861780449" />
     <state x="2036" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605791009834">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
