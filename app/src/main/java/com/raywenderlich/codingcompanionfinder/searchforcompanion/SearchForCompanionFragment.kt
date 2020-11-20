@@ -49,7 +49,9 @@ import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 import android.view.inputmethod.InputMethodManager
 import android.widget.TextView
+import androidx.lifecycle.ViewModelProviders
 import com.raywenderlich.codingcompanionfinder.R
+import com.raywenderlich.codingcompanionfinder.databinding.FragmentSearchForCompanionBinding
 import com.raywenderlich.codingcompanionfinder.testhooks.IdlingEntity
 import org.greenrobot.eventbus.EventBus
 
@@ -63,12 +65,19 @@ class SearchForCompanionFragment : Fragment() {
 
   private lateinit var viewManager: RecyclerView.LayoutManager
 
+  private lateinit var fragmentSearchForCompanionBinding: FragmentSearchForCompanionBinding
+  private lateinit var searchForCompanionViewModel: SearchForCompanionViewModel
+
   override fun onCreateView(
       inflater: LayoutInflater, container: ViewGroup?,
       savedInstanceState: Bundle?
   ): View? {
     // Inflate the layout for this fragment
-    return inflater.inflate(R.layout.fragment_search_for_companion, container, false)
+    fragmentSearchForCompanionBinding = FragmentSearchForCompanionBinding.inflate(inflater, container, false)
+    searchForCompanionViewModel = ViewModelProviders.of(this).get(SearchForCompanionViewModel::class.java)
+    fragmentSearchForCompanionBinding.searchForCompanionViewModel = searchForCompanionViewModel
+    fragmentSearchForCompanionBinding.lifecycleOwner = this
+    return fragmentSearchForCompanionBinding.root
   }
 
   override fun onActivityCreated(savedInstanceState: Bundle?) {
