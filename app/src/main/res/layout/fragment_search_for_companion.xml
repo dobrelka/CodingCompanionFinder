@@ -28,6 +28,12 @@
   ~ THE SOFTWARE.
   -->
 
+<layout>
+  <data>
+    <variable
+        name="searchForCompanionViewModel"
+        type="com.raywenderlich.codingcompanionfinder.searchforcompanion.SearchForCompanionViewModel" />
+  </data>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:app="http://schemas.android.com/apk/res-auto"
   xmlns:tools="http://schemas.android.com/tools"
@@ -100,3 +106,4 @@
       app:layout_constraintTop_toBottomOf="@id/searchField" />
   </androidx.constraintlayout.widget.ConstraintLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
