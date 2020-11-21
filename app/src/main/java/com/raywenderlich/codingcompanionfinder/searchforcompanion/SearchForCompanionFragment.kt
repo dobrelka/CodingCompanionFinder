@@ -96,57 +96,6 @@ class SearchForCompanionFragment : Fragment() {
     super.onActivityCreated(savedInstanceState)
   }
 
-
-
-  private fun searchForCompanions() {
-
-    val searchForCompanionFragment = this
-
-    GlobalScope.launch {
-      accessToken = (activity as MainActivity).accessToken
-      (activity as MainActivity).petFinderService?.let { petFinderService ->
-        // increment the IdlingResources
-        EventBus.getDefault().post(IdlingEntity(1))
-        val getAnimalsRequest =
-          petFinderService.getAnimals(accessToken, location = searchForCompanionViewModel.companionLocation.value)
-
-        val searchForPetResponse = getAnimalsRequest.await()
-
-        GlobalScope.launch(Dispatchers.Main) {
-          if (searchForPetResponse.isSuccessful) {
-            searchForPetResponse.body()?.let {
-              {
-                if (it.animals.size > 0) {
-                  searchForCompanionViewModel
-                    .noResultsViewVisiblity
-                    .postValue(INVISIBLE)
-                  viewManager = LinearLayoutManager(context)
-                  companionAdapter = CompanionAdapter(it.animals, searchForCompanionFragment)
-                  petRecyclerView = view?.let {
-                    it.findViewById<RecyclerView>(R.id.petRecyclerView).apply {
-                      layoutManager = viewManager
-                      adapter = companionAdapter
-                    }
-                  }
-                } else {
-                  searchForCompanionViewModel
-                    .noResultsViewVisiblity
-                    .postValue(VISIBLE)
-                }
-              }
-            }
-          } else {
-            searchForCompanionViewModel
-              .noResultsViewVisiblity
-              .postValue(VISIBLE)
-          }
-          // Decrement the idling resources.
-          EventBus.getDefault().post(IdlingEntity(-1))
-        }
-      }
-    }
-  }
-
   private fun setupSearchForCompanions() {
     searchForCompanionViewModel.accessToken = (activity as MainActivity).accessToken
     searchForCompanionViewModel.petFinderService = (activity as MainActivity).petFinderService!!
