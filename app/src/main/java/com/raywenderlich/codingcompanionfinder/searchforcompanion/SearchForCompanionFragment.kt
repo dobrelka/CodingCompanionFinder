@@ -83,16 +83,16 @@ class SearchForCompanionFragment : Fragment() {
   }
 
   override fun onActivityCreated(savedInstanceState: Bundle?) {
-    view?.findViewById<MaterialButton>(R.id.searchButton)?.setOnClickListener {
+    fragmentSearchForCompanionBinding.searchButton.setOnClickListener {
       try {
         val inputMethodManager = activity?.getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager?
         inputMethodManager!!.hideSoftInputFromWindow(activity?.getCurrentFocus()?.getWindowToken(), 0)
       } catch (e: Exception) {
         // only happens when the keyboard is already closed
       }
-      searchForCompanions()
+      searchForCompanionViewModel.searchForCompanions()
     }
-
+    setupSearchForCompanions()
     super.onActivityCreated(savedInstanceState)
   }
 
