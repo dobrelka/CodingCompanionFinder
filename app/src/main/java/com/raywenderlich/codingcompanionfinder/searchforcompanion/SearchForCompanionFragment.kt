@@ -49,9 +49,11 @@ import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 import android.view.inputmethod.InputMethodManager
 import android.widget.TextView
+import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import com.raywenderlich.codingcompanionfinder.R
 import com.raywenderlich.codingcompanionfinder.databinding.FragmentSearchForCompanionBinding
+import com.raywenderlich.codingcompanionfinder.models.Animal
 import com.raywenderlich.codingcompanionfinder.testhooks.IdlingEntity
 import org.greenrobot.eventbus.EventBus
 
@@ -143,5 +145,26 @@ class SearchForCompanionFragment : Fragment() {
         }
       }
     }
+  }
+
+  private fun setupSearchForCompanions() {
+    searchForCompanionViewModel.accessToken = (activity as MainActivity).accessToken
+    searchForCompanionViewModel.petFinderService = (activity as MainActivity).petFinderService!!
+
+    viewManager = LinearLayoutManager(context)
+    companionAdapter = CompanionAdapter(
+      searchForCompanionViewModel.animals.value ?: arrayListOf(),
+      this
+    )
+    petRecyclerView = fragmentSearchForCompanionBinding.petRecyclerView.apply {
+      layoutManager = viewManager
+      adapter = companionAdapter
+    }
+
+    searchForCompanionViewModel.animals.observe(this,
+    Observer<ArrayList<Animal>?> {
+      companionAdapter.animals = it ?: arrayListOf()
+      companionAdapter.notifyDataSetChanged()
+    })
   }
 }
