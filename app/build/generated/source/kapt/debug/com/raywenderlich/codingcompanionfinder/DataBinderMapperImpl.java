@@ -6,6 +6,7 @@ import android.view.View;
 import androidx.databinding.DataBinderMapper;
 import androidx.databinding.DataBindingComponent;
 import androidx.databinding.ViewDataBinding;
+import com.raywenderlich.codingcompanionfinder.databinding.FragmentSearchForCompanionBindingImpl;
 import com.raywenderlich.codingcompanionfinder.databinding.FragmentViewCompanionBindingImpl;
 import java.lang.IllegalArgumentException;
 import java.lang.Integer;
@@ -18,11 +19,14 @@ import java.util.HashMap;
 import java.util.List;
 
 public class DataBinderMapperImpl extends DataBinderMapper {
-  private static final int LAYOUT_FRAGMENTVIEWCOMPANION = 1;
+  private static final int LAYOUT_FRAGMENTSEARCHFORCOMPANION = 1;
 
-  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(1);
+  private static final int LAYOUT_FRAGMENTVIEWCOMPANION = 2;
+
+  private static final SparseIntArray INTERNAL_LAYOUT_ID_LOOKUP = new SparseIntArray(2);
 
   static {
+    INTERNAL_LAYOUT_ID_LOOKUP.put(com.raywenderlich.codingcompanionfinder.R.layout.fragment_search_for_companion, LAYOUT_FRAGMENTSEARCHFORCOMPANION);
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.raywenderlich.codingcompanionfinder.R.layout.fragment_view_companion, LAYOUT_FRAGMENTVIEWCOMPANION);
   }
 
@@ -35,6 +39,12 @@ public class DataBinderMapperImpl extends DataBinderMapper {
         throw new RuntimeException("view must have a tag");
       }
       switch(localizedLayoutId) {
+        case  LAYOUT_FRAGMENTSEARCHFORCOMPANION: {
+          if ("layout/fragment_search_for_companion_0".equals(tag)) {
+            return new FragmentSearchForCompanionBindingImpl(component, view);
+          }
+          throw new IllegalArgumentException("The tag for fragment_search_for_companion is invalid. Received: " + tag);
+        }
         case  LAYOUT_FRAGMENTVIEWCOMPANION: {
           if ("layout/fragment_view_companion_0".equals(tag)) {
             return new FragmentViewCompanionBindingImpl(component, view);
@@ -86,18 +96,20 @@ public class DataBinderMapperImpl extends DataBinderMapper {
   }
 
   private static class InnerBrLookup {
-    static final SparseArray<String> sKeys = new SparseArray<String>(3);
+    static final SparseArray<String> sKeys = new SparseArray<String>(4);
 
     static {
       sKeys.put(0, "_all");
       sKeys.put(1, "viewCompanionViewModel");
+      sKeys.put(2, "searchForCompanionViewModel");
     }
   }
 
   private static class InnerLayoutIdLookup {
-    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(1);
+    static final HashMap<String, Integer> sKeys = new HashMap<String, Integer>(2);
 
     static {
+      sKeys.put("layout/fragment_search_for_companion_0", com.raywenderlich.codingcompanionfinder.R.layout.fragment_search_for_companion);
       sKeys.put("layout/fragment_view_companion_0", com.raywenderlich.codingcompanionfinder.R.layout.fragment_view_companion);
     }
   }

@@ -97,9 +97,7 @@ class SearchForCompanionFragment : Fragment() {
 
 
   private fun searchForCompanions() {
-    val companionLocation =
-      view?.findViewById<TextInputEditText>(R.id.searchFieldText)?.text.toString()
-    val noResultsTextView = view?.findViewById<TextView>(R.id.noResults)
+
     val searchForCompanionFragment = this
 
     GlobalScope.launch {
@@ -108,7 +106,7 @@ class SearchForCompanionFragment : Fragment() {
         // increment the IdlingResources
         EventBus.getDefault().post(IdlingEntity(1))
         val getAnimalsRequest =
-          petFinderService.getAnimals(accessToken, location = companionLocation)
+          petFinderService.getAnimals(accessToken, location = searchForCompanionViewModel.companionLocation.value)
 
         val searchForPetResponse = getAnimalsRequest.await()
 
@@ -117,7 +115,9 @@ class SearchForCompanionFragment : Fragment() {
             searchForPetResponse.body()?.let {
               {
                 if (it.animals.size > 0) {
-                  noResultsTextView?.visibility = INVISIBLE
+                  searchForCompanionViewModel
+                    .noResultsViewVisiblity
+                    .postValue(INVISIBLE)
                   viewManager = LinearLayoutManager(context)
                   companionAdapter = CompanionAdapter(it.animals, searchForCompanionFragment)
                   petRecyclerView = view?.let {
@@ -127,12 +127,16 @@ class SearchForCompanionFragment : Fragment() {
                     }
                   }
                 } else {
-                  noResultsTextView?.visibility = VISIBLE
+                  searchForCompanionViewModel
+                    .noResultsViewVisiblity
+                    .postValue(VISIBLE)
                 }
               }
             }
           } else {
-            noResultsTextView?.visibility = VISIBLE
+            searchForCompanionViewModel
+              .noResultsViewVisiblity
+              .postValue(VISIBLE)
           }
           // Decrement the idling resources.
           EventBus.getDefault().post(IdlingEntity(-1))
