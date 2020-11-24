@@ -15,6 +15,7 @@ MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/dobrelka/.gradle/cac
 MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/ee6b7cfa91e759ad1e337b47ed7895a5/jetified-navigation-fragment-ktx-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/567f8bf33ab107930f5f6648d8590799/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
 MERGED from [com.synnapps:carouselview:0.1.5] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/09d52d4beab2fa5df1816162dccfe045/jetified-carouselview-0.1.5/AndroidManifest.xml:2:1-16:12
+MERGED from [org.koin:koin-android-viewmodel:1.0.1] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/cf7f1e18ae6c1606699ed3b283f9d10a/jetified-koin-android-viewmodel-1.0.1/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/9f9b389973cdb7a2aaf2d33fd3258cb1/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/56f4f48127b42ea8f81ac6a2e8b493f6/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/09104609790e52724efcb90a3f341e3f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -44,6 +45,8 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/
 MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/5ab46baa521038c502e56c10a990abfb/lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/7731d9590b43c35a94a280797727da0f/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/4f31a08b86e266fb2c687c51e20447b6/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [org.koin:koin-android-scope:1.0.1] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/1c6ae7aba83c8de5db30881c2c293278/jetified-koin-android-scope-1.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-android:1.0.1] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/44d82a5eb72262edf619743a251cc09c/koin-android-1.0.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.cardview:cardview:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/8c28aa4a28329e1baf803fd555ac96cc/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/e5e77f16617dfd78a9d8e549ff14e53f/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/32e2119dbd011bd7b416ed6fa90f9741/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
@@ -87,6 +90,8 @@ MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/dobrelka/.gradle/cache
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/567f8bf33ab107930f5f6648d8590799/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
 MERGED from [com.synnapps:carouselview:0.1.5] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/09d52d4beab2fa5df1816162dccfe045/jetified-carouselview-0.1.5/AndroidManifest.xml:11:5-14:19
 MERGED from [com.synnapps:carouselview:0.1.5] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/09d52d4beab2fa5df1816162dccfe045/jetified-carouselview-0.1.5/AndroidManifest.xml:11:5-14:19
+MERGED from [org.koin:koin-android-viewmodel:1.0.1] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/cf7f1e18ae6c1606699ed3b283f9d10a/jetified-koin-android-viewmodel-1.0.1/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-viewmodel:1.0.1] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/cf7f1e18ae6c1606699ed3b283f9d10a/jetified-koin-android-viewmodel-1.0.1/AndroidManifest.xml:7:5-20
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/9f9b389973cdb7a2aaf2d33fd3258cb1/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/9f9b389973cdb7a2aaf2d33fd3258cb1/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.core:core:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/82c4d5c59ecade2b20e9e6f678983945/core-1.1.0/AndroidManifest.xml:24:5-89
@@ -95,6 +100,8 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/
 MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/b8e1cf2e18918054902993c3c6ac67fd/lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/4f31a08b86e266fb2c687c51e20447b6/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/4f31a08b86e266fb2c687c51e20447b6/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [org.koin:koin-android-scope:1.0.1] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/1c6ae7aba83c8de5db30881c2c293278/jetified-koin-android-scope-1.0.1/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-scope:1.0.1] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/1c6ae7aba83c8de5db30881c2c293278/jetified-koin-android-scope-1.0.1/AndroidManifest.xml:7:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/32e2119dbd011bd7b416ed6fa90f9741/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/32e2119dbd011bd7b416ed6fa90f9741/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
 	android:appComponentFactory
@@ -161,6 +168,8 @@ MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/dobrelka/.gradle/cache
 MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/567f8bf33ab107930f5f6648d8590799/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
 MERGED from [com.synnapps:carouselview:0.1.5] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/09d52d4beab2fa5df1816162dccfe045/jetified-carouselview-0.1.5/AndroidManifest.xml:7:5-9:41
 MERGED from [com.synnapps:carouselview:0.1.5] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/09d52d4beab2fa5df1816162dccfe045/jetified-carouselview-0.1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [org.koin:koin-android-viewmodel:1.0.1] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/cf7f1e18ae6c1606699ed3b283f9d10a/jetified-koin-android-viewmodel-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-viewmodel:1.0.1] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/cf7f1e18ae6c1606699ed3b283f9d10a/jetified-koin-android-viewmodel-1.0.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/9f9b389973cdb7a2aaf2d33fd3258cb1/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/9f9b389973cdb7a2aaf2d33fd3258cb1/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/56f4f48127b42ea8f81ac6a2e8b493f6/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
@@ -219,6 +228,10 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dobrelka/.gradle/
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/7731d9590b43c35a94a280797727da0f/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/4f31a08b86e266fb2c687c51e20447b6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/4f31a08b86e266fb2c687c51e20447b6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.koin:koin-android-scope:1.0.1] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/1c6ae7aba83c8de5db30881c2c293278/jetified-koin-android-scope-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-scope:1.0.1] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/1c6ae7aba83c8de5db30881c2c293278/jetified-koin-android-scope-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:1.0.1] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/44d82a5eb72262edf619743a251cc09c/koin-android-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:1.0.1] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/44d82a5eb72262edf619743a251cc09c/koin-android-1.0.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/8c28aa4a28329e1baf803fd555ac96cc/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/8c28aa4a28329e1baf803fd555ac96cc/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/e5e77f16617dfd78a9d8e549ff14e53f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
