@@ -7,9 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6aaeb8-f12b-4b16-b2ef-2acd65e09472" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/codingcompanionfinder/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/codingcompanionfinder/MainActivity.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -635,7 +634,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605977604583</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Adding implementation in build.gradle(app)">
+      <created>1606210375324</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1606210375324</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -652,7 +658,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Creating ViewCompanionViewModel.kt" />
     <MESSAGE value="&#10;Changing fragment_view_companion.xml" />
     <MESSAGE value="&#10;Replacing android:text in fragment_view_companion.xml" />
     <MESSAGE value="Adding fun populateFromAnimal in ViewCompanionViewModel.kt" />
@@ -677,13 +682,14 @@
     <MESSAGE value="Adding fun setupSearchForCompanions in SearchForCompanionFragment.kt" />
     <MESSAGE value="Changing fun onActivityCreated in SearchForCompanionFragment.kt" />
     <MESSAGE value="Removed searchForCompanions in the SearchForCompanionFragment.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed searchForCompanions in the SearchForCompanionFragment.kt" />
+    <MESSAGE value="Adding implementation in build.gradle(app)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding implementation in build.gradle(app)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1936" y="393" width="1664" height="491" key="CommitChangelistDialog2" timestamp="1605977603633">
+    <state x="1974" y="345" width="884" height="491" key="CommitChangelistDialog2" timestamp="1606210373031">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="1936" y="393" width="1664" height="491" key="CommitChangelistDialog2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605977603633" />
+    <state x="1974" y="345" width="884" height="491" key="CommitChangelistDialog2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1606210373031" />
     <state x="2026" y="100" width="688" height="823" maximized="true" key="DiffContextDialog" timestamp="1605977680657">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
@@ -708,10 +714,10 @@
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state width="842" height="138" key="GridCell.Tab.0.right/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1606207653252" />
-    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2" timestamp="1605977606811">
+    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2" timestamp="1606210377168">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605977606811" />
+    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1606210377168" />
     <state x="2036" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605791009834">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>

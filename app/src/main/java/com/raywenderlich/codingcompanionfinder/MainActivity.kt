@@ -52,20 +52,12 @@ class MainActivity : AppCompatActivity() {
 
   var petFinderService: PetFinderService? = null
 
-  var token: Token = Token()
-
-  var apiKey = "iyL5LNUFawhi9PLDrW5xznlp0Xss2E5BXqdnUcYtEfiD4YrZpU"
-
-  val apiSecret = "CMJIaCwSv0BmjgbDaEgr4KKEWxH74uY4FvYm7YTD"
-
   var accessToken = ""
 
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
     setContentView(R.layout.activity_main)
-      intent.getStringExtra(PETFINDER_KEY)?.let{
-          apiKey = it
-      }
+
     if (petFinderService == null) {
       val logger = HttpLoggingInterceptor()
       logger.level = HttpLoggingInterceptor.Level.BODY
@@ -118,5 +110,8 @@ class MainActivity : AppCompatActivity() {
     companion object {
         val PETFINDER_URI = "petfinder_uri"
         val PETFINDER_KEY = "petfinder_key"
+        val API_KEY = "iyL5LNUFawhi9PLDrW5xznlp0Xss2E5BXqdnUcYtEfiD4YrZpU"
+        val API_SECRET = "CMJIaCwSv0BmjgbDaEgr4KKEWxH74uY4FvYm7YTD"
+        val DEFAULT_PETFINDER_URL = "http://api.petfinder.com/v2/"
     }
 }
