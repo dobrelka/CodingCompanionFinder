@@ -7,8 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6aaeb8-f12b-4b16-b2ef-2acd65e09472" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/codingcompanionfinder/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/codingcompanionfinder/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/codingcompanionfinder/retrofit/AuthorizationInterceptor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/codingcompanionfinder/retrofit/AuthorizationInterceptor.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,11 @@
         <option value="dobrelka &lt;dobrelyatest@gmail.com&gt;" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kNp29zu0azIzpvs16F7itbuhsz" />
@@ -53,7 +60,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BOOKS_PROGRAMMING_KOTLIN/Android_Test_Driven_Development_by_Tutorials_Source_Code_v1.0.0/14-hands-on-focused-refactoring/final/CodingCompanionFinder" />
   </component>
   <component name="RunManager" selected="Android Instrumented Tests.FindCompanionInstrum...">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -641,7 +648,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606210375324</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Changing MainActivity.kt">
+      <created>1606213097971</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1606213097971</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -658,7 +672,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&#10;Changing fragment_view_companion.xml" />
     <MESSAGE value="&#10;Replacing android:text in fragment_view_companion.xml" />
     <MESSAGE value="Adding fun populateFromAnimal in ViewCompanionViewModel.kt" />
     <MESSAGE value="Changed fun onCreateView in ViewCompanionFragment.kt" />
@@ -683,44 +696,45 @@
     <MESSAGE value="Changing fun onActivityCreated in SearchForCompanionFragment.kt" />
     <MESSAGE value="Removed searchForCompanions in the SearchForCompanionFragment.kt" />
     <MESSAGE value="Adding implementation in build.gradle(app)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding implementation in build.gradle(app)" />
+    <MESSAGE value="Changing MainActivity.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changing MainActivity.kt" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1974" y="345" width="884" height="491" key="CommitChangelistDialog2" timestamp="1606210373031">
+    <state x="1974" y="345" width="884" height="491" key="CommitChangelistDialog2" timestamp="1606213097800">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="1974" y="345" width="884" height="491" key="CommitChangelistDialog2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1606210373031" />
+    <state x="1974" y="345" width="884" height="491" key="CommitChangelistDialog2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1606213097800" />
     <state x="2026" y="100" width="688" height="823" maximized="true" key="DiffContextDialog" timestamp="1605977680657">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
     <state x="2026" y="100" width="688" height="823" maximized="true" key="DiffContextDialog/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605977680657" />
-    <state x="2165" y="269" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605558206332">
+    <state x="2165" y="269" width="424" height="491" key="FileChooserDialogImpl" timestamp="1606395135255">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2165" y="269" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605558206332" />
-    <state width="842" height="138" key="GridCell.Tab.0.bottom" timestamp="1606207653252">
+    <state x="2165" y="269" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1606395135255" />
+    <state width="842" height="265" key="GridCell.Tab.0.bottom" timestamp="1606251245032">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state width="842" height="138" key="GridCell.Tab.0.bottom/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1606207653252" />
-    <state width="842" height="138" key="GridCell.Tab.0.center" timestamp="1606207653252">
+    <state width="842" height="265" key="GridCell.Tab.0.bottom/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1606251245032" />
+    <state width="842" height="265" key="GridCell.Tab.0.center" timestamp="1606251245032">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state width="842" height="138" key="GridCell.Tab.0.center/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1606207653252" />
-    <state width="842" height="138" key="GridCell.Tab.0.left" timestamp="1606207653252">
+    <state width="842" height="265" key="GridCell.Tab.0.center/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1606251245032" />
+    <state width="842" height="265" key="GridCell.Tab.0.left" timestamp="1606251245032">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state width="842" height="138" key="GridCell.Tab.0.left/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1606207653252" />
-    <state width="842" height="138" key="GridCell.Tab.0.right" timestamp="1606207653252">
+    <state width="842" height="265" key="GridCell.Tab.0.left/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1606251245032" />
+    <state width="842" height="265" key="GridCell.Tab.0.right" timestamp="1606251245032">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state width="842" height="138" key="GridCell.Tab.0.right/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1606207653252" />
-    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2" timestamp="1606210377168">
+    <state width="842" height="265" key="GridCell.Tab.0.right/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1606251245032" />
+    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2" timestamp="1606213099587">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1606210377168" />
-    <state x="2036" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605791009834">
+    <state x="1977" y="235" width="800" height="559" key="Vcs.Push.Dialog.v2/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1606213099587" />
+    <state x="2036" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606213172011">
       <screen x="1920" y="0" width="1680" height="1050" />
     </state>
-    <state x="2036" y="225" width="672" height="678" key="search.everywhere.popup/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1605791009834" />
+    <state x="2036" y="225" width="672" height="678" key="search.everywhere.popup/0.27.1920.1173/1920.0.1680.1050@1920.0.1680.1050" timestamp="1606213172011" />
   </component>
 </project>
