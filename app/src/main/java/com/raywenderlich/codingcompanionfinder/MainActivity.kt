@@ -65,7 +65,7 @@ class MainActivity : AppCompatActivity() {
           .addInterceptor(logger)
           .connectTimeout(60L, TimeUnit.SECONDS)
           .readTimeout(60L, TimeUnit.SECONDS)
-          .addInterceptor(AuthorizationInterceptor(this))
+          .addInterceptor(AuthorizationInterceptor())
           .build()
 
         val baseUrl = intent.getStringExtra(PETFINDER_URI) ?:  "https://api.petfinder.com/v2/"
