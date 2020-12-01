@@ -56,6 +56,7 @@ import org.junit.Before
 import org.junit.BeforeClass
 import org.koin.dsl.module.module
 import org.koin.standalone.StandAloneContext.loadKoinModules
+import org.koin.standalone.StandAloneContext.stopKoin
 
 /**
  * Instrumented test, which will execute on an Android device.
@@ -111,6 +112,8 @@ class FindCompanionInstrumentedTest {
   @Before
   fun beforeTestsRun() {
     testScenario = ActivityScenario.launch(startIntent)
+    stopKoin()
+    loadKoinTestModules()
     EventBus.getDefault().register(this)
     IdlingRegistry.getInstance().register(idlingResource)
   }
