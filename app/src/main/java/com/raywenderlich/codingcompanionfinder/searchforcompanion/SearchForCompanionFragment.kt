@@ -56,6 +56,7 @@ import com.raywenderlich.codingcompanionfinder.databinding.FragmentSearchForComp
 import com.raywenderlich.codingcompanionfinder.models.Animal
 import com.raywenderlich.codingcompanionfinder.testhooks.IdlingEntity
 import org.greenrobot.eventbus.EventBus
+import org.koin.android.viewmodel.ext.android.viewModel
 
 class SearchForCompanionFragment : Fragment() {
 
@@ -68,7 +69,7 @@ class SearchForCompanionFragment : Fragment() {
   private lateinit var viewManager: RecyclerView.LayoutManager
 
   private lateinit var fragmentSearchForCompanionBinding: FragmentSearchForCompanionBinding
-  private lateinit var searchForCompanionViewModel: SearchForCompanionViewModel
+  private val searchForCompanionViewModel: SearchForCompanionViewModel by viewModel()
 
   override fun onCreateView(
       inflater: LayoutInflater, container: ViewGroup?,
