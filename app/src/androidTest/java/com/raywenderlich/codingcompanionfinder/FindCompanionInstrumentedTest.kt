@@ -54,6 +54,8 @@ import org.junit.runner.RunWith
 
 import org.junit.Before
 import org.junit.BeforeClass
+import org.koin.dsl.module.module
+import org.koin.standalone.StandAloneContext.loadKoinModules
 
 /**
  * Instrumented test, which will execute on an Android device.
@@ -93,6 +95,12 @@ class FindCompanionInstrumentedTest {
       startIntent.putExtra(MainActivity.PETFINDER_URI,
           server.url("").toString())
     }
+  }
+
+  private fun loadKoinTestModules() {
+    loadKoinModules(module(override = true) {
+      single(name = PETFINDER_URL){server.url("").toString()}
+    }, appModule)
   }
 
   @Subscribe

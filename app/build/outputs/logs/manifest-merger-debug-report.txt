@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
+ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-31:12
 MERGED from [androidx.databinding:databinding-adapters:3.5.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/fa3243a6d68dc76c25ea61d55a9ae63b/databinding-adapters-3.5.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:3.5.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/29c0e5b3c8392fe7faac9148a4e113bf/databinding-runtime-3.5.0/AndroidManifest.xml:17:1-24:12
 MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/c1ae7443380b8e5b7825148d0b28dd8e/jetified-navigation-ui-ktx-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -59,20 +59,20 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dobrelka/.gradle/ca
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/e63992e0b7a011b8332c49cd2f0c457c/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/a80f7f27b84d408d1404ce45be7b0608/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/fbd3bfd05ec81aa77f198d475232bb30/print-1.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-31:12
 	package
 		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:3:3-52
 		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
 		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
-		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-31:12
 		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
-		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-30:12
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:1-31:12
 		INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:2:11-69
@@ -81,7 +81,7 @@ ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
 	android:name
 		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:5:20-62
 application
-ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:7:3-28:17
+ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:7:3-29:17
 MERGED from [com.google.android.material:material:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/809f3afd62ad901286dacc9a92c3cf42/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/809f3afd62ad901286dacc9a92c3cf42/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/44b6248993f306d507173c1251137d1e/constraintlayout-2.0.0-beta2/AndroidManifest.xml:9:5-20
@@ -107,41 +107,43 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/dobrelka/.gradle/
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /home/dobrelka/.gradle/caches/transforms-2/files-2.1/82c4d5c59ecade2b20e9e6f678983945/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:12:5-31
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:13:5-31
 	android:label
-		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:10:5-37
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:11:5-37
 	android:roundIcon
-		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:11:5-58
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:12:5-58
 	android:icon
-		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:9:5-47
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:10:5-47
 	android:allowBackup
-		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:8:5-31
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:9:5-31
 	android:theme
-		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:13:5-36
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:14:5-36
 	android:usesCleartextTraffic
-		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:14:5-40
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:15:5-40
+	android:name
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:8:5-42
 activity#com.raywenderlich.codingcompanionfinder.SplashActivity
-ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:15:5-21:16
+ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:16:5-22:16
 	android:name
-		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:15:15-45
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:16:15-45
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:16:7-20:23
+ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:17:7-21:23
 action#android.intent.action.MAIN
-ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:17:9-61
+ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:18:9-61
 	android:name
-		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:17:17-58
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:18:17-58
 category#android.intent.category.LAUNCHER
-ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:19:9-69
+ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:20:9-69
 	android:name
-		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:19:19-66
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:20:19-66
 activity#com.raywenderlich.codingcompanionfinder.MainActivity
-ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:22:5-27:16
+ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:23:5-28:16
 	android:screenOrientation
-		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:25:7-43
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:26:7-43
 	android:configChanges
-		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:24:7-85
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:25:7-85
 	android:name
-		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:23:7-35
+		ADDED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml:24:7-35
 uses-sdk
 INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/dobrelka/CodingCompanionFinder/app/src/main/AndroidManifest.xml
