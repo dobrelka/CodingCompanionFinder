@@ -77,7 +77,6 @@ class SearchForCompanionFragment : Fragment() {
   ): View? {
     // Inflate the layout for this fragment
     fragmentSearchForCompanionBinding = FragmentSearchForCompanionBinding.inflate(inflater, container, false)
-    searchForCompanionViewModel = ViewModelProviders.of(this).get(SearchForCompanionViewModel::class.java)
     fragmentSearchForCompanionBinding.searchForCompanionViewModel = searchForCompanionViewModel
     fragmentSearchForCompanionBinding.lifecycleOwner = this
     return fragmentSearchForCompanionBinding.root
@@ -99,8 +98,6 @@ class SearchForCompanionFragment : Fragment() {
 
   private fun setupSearchForCompanions() {
     searchForCompanionViewModel.accessToken = (activity as MainActivity).accessToken
-    searchForCompanionViewModel.petFinderService = (activity as MainActivity).petFinderService!!
-
     viewManager = LinearLayoutManager(context)
     companionAdapter = CompanionAdapter(
       searchForCompanionViewModel.animals.value ?: arrayListOf(),
