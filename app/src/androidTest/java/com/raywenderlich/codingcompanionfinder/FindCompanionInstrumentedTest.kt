@@ -122,6 +122,7 @@ class FindCompanionInstrumentedTest {
   fun afterTestsRun() {
     // eventbus and idling resources unregister.
     IdlingRegistry.getInstance().unregister(idlingResource)
+    stopKoin()
     EventBus.getDefault().unregister(this)
     testScenario.close()
   }
